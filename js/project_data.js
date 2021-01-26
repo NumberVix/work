@@ -7,7 +7,7 @@ const ProjectData = {
 	"dickens": {
 		title: "Mail Bot",
 		github: "https://pastebin.com/ePurcDVn",
-		description: "This was a private project developed specifically to maintain efficency in one large community ran by myself with a team of 3. The purpose of this bot was to allow users to direct message an automated 'Help' user, in where all direct messages received by this 'user' (the bot) would be relayed back to a group for the entire management team to see, meaning all queries can be answered quickly and easily. I cannot release the full source code for this bot, however here is a preview of the code, showing the main index file in the root directory. (https://pastebin.com/ePurcDVn) The full source code is 73 MB, and the directory contains over 14,000 files, with over 1,750 folders.
+		description: "This was a private project developed specifically to maintain efficency in one large community ran by myself with a team of 3. The purpose of this bot was to allow users to direct message an automated 'Help' user, in where all direct messages received by this 'user' (the bot) would be relayed back to a group for the entire management team to see, meaning all queries can be answered quickly and easily. I cannot release the full source code for this bot, however here is a preview of the code, showing the main index file in the root directory. (https://pastebin.com/ePurcDVn) The full source code is 73 MB, and the directory contains over 14,000 files, with over 1,750 folders."
 	},
 	"minesweeper_b": {
 		title: "Other JS Project",
