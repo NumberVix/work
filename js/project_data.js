@@ -37,7 +37,7 @@ const ProjectData = {
 	"portfolio": {
 		title: "Portfolio",
 		github: "https://numbervix.github.io/work",
-		description: "The site you are currently on. This website is a one page sitem built using JavaScript, CSS and HTML. Primarily JavaScript."
+		description: "The site you are currently on. This website is a one page site built using JavaScript, CSS and HTML. Primarily JavaScript."
 	},
 	"minesweeper_f": {
 		title: "Old Portfolio",
